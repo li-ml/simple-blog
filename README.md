@@ -1,6 +1,6 @@
 graphql-angular-django-simple-blog
 ==================================
-![screen.png]()
+![](screen.png)
 
 [A simple blog website powered by GraphQL, Django & Angular]()
 
